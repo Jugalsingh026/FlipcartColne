@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-bar{
+    height: 56px;
+    width: auto;
+    background-color: rgb(233, 167, 25);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.nav-box1{
+    
+    width: 124px;
+    height: 56px;
+}
+.nav-box2{
+    width: 100px;
+    height: 20.11px;
+    background-image: url("logo.png");
+    background-size: cover;
+    align-items: center;
+    margin-left: 20px;
+    
+}
+.nav-search{
+    height: 36px;
+    width: 262px;
+    border: none;
+    margin-left: 10px;
+}
+.nav-search input{
+    height: 36px;
+    width: 262px;
+    border: 2px 0 0 2px;
+    padding: 0px 16px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+.nav-box3{
+    display: flex;
+    height: 56px;
+    width: 356px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+.search-button i{
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    margin-left: 10px;
+    background-color: white;
+    color: blue;
+    height: 20px;
+    width: 20px;
+    margin-top: 7px;
+}
+.login{
+    width: 905px;
+    color: #2874f0;
+    display: flex;
+        align-items: center;
+}
+.login-box{
+    height: 36px;
+    width: auto;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-box p{
+    background-color: white;
+    height: 31px;
+    width: 120px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: 700;
+}
+span{
+    font-weight: 700px;
+    color: white;
+    width: 116px;
+    margin-right: 0;
+    display: inline;
+}
+.cart{
+    color: white;
+
+}
+/**Panel-1280/113**/
+
+.panel{
+    height: 113px;
+    width: 1280px;
+    margin: -15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.grocery{
+    width: 64px;
+    height: 64px;
+    background-image: url("Grocery.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+    
+}
+.grocery p{
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.appliances {
+    width: 64px;
+    height: 64px;
+    background-image: url("Appliances.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.appliances p {
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.beauty {
+    width: 64px;
+    height: 64px;
+    background-image: url("Beauty Toys & More.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.beauty p {
+    margin-top: 70px;
+    color: #212121;
+    font: 4px;
+    font-weight: 100;
+}
+.electronics {
+    width: 64px;
+    height: 64px;
+    background-image: url("Electronics.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.electronics p {
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.fashion {
+    width: 64px;
+    height: 64px;
+    background-image: url("Fashion.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.fashion p {
+    margin-top: 80px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.mobile {
+    width: 64px;
+    height: 64px;
+    background-image: url("Mobiles.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.mobile p {
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.top {
+    width: 64px;
+    height: 64px;
+    background-image: url("Top Offers.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.top p {
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.travel {
+    width: 64px;
+    height: 64px;
+    background-image: url("Travel.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.travel p {
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.home {
+    width: 64px;
+    height: 64px;
+    background-image: url("Home\ &\ Furniture.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.home p {
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.two-wheeler {
+    width: 64px;
+    height: 64px;
+    background-image: url("Two\ Wheelers.jpg");
+    background-size: cover;
+    padding: 12px 8px 12px 22px;
+
+}
+
+.two-wheeler p {
+    margin-top: 70px;
+    color: #212121;
+    font: 14px;
+    font-weight: bold;
+}
+.hero-section{
+    height: 280px;
+    width: 1680px;
+    background-image: url("hero_image1.jpg");
+    background-size: cover;
+    margin-top: 20px;
+}
